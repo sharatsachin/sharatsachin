@@ -1,5 +1,5 @@
 <h1 align="center">Sharat Sachin</h1>
-<h3 align="center"><i>"Driven by curiosity about data."</i></h3>
+<h4 align="center"><i>"Making machines predict the future"</i></h4>
 
 <div style="display: flex; justify-content: center;">
     <p align="center">
