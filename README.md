@@ -2,32 +2,25 @@
 <h3 align="center"><i>"Driven by curiosity about data."</i></h3>
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://sharats.dev">
-       <p align="center">
+    <p align="center">
+    <a href="https://sharats.dev/about">
         <img src="https://img.shields.io/badge/website-de5833?style=for-the-badge&logo=&logoColor=white" alt="Website Badge">
-          </p>
     </a>
     <a href="https://www.linkedin.com/in/sharatsachin/">
-       <p align="center">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-          </p>
     </a>
     <a href="https://www.kaggle.com/sharatsachin">
-        <p align="center">
         <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge">
-         </p>
     </a>
+    </p>
 </div>
-        
-&nbsp;
 
 <h1>👨‍💻 About Me</h1>
-I am an engineer currently working in the data science team at Nagarro, Gurgaon. I got my undergraduate computer science degree from the Bharati Vidyapeeth College of Engineering, Delhi, and masters degree from BITS Pilani. I am skilled in various fields and frameworks including:
-
-&nbsp;
+I am an engineer currently working in the data science team at Nagarro, Gurgaon. I got my undergraduate computer science degree from the Bharati Vidyapeeth College of Engineering, Delhi, and master's degree from BITS Pilani. I am skilled in various fields and frameworks including:
 
 - ✅ Data Visualization/Analytics: Matplotlib, Seaborn, Plotly
-- ✅ Data Science: PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV
+- ✅ Data Science: PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, Pandas, NLTK, Dask
+- ✅ Algorithms, Data Structures: Dynamic Programming, Graph Theory, Trees, Arrays
 - ✅ Web Scraping: BeautifulSoup, Scrapy
 - ✅ Maths and Statistics: Statsmodels, SciPy
 - ✅ Domains: Regression, Classification, NLP, Computer Vision, Time Series
@@ -35,12 +28,42 @@ I am an engineer currently working in the data science team at Nagarro, Gurgaon.
 - ✅ MLOps: MLflow
 - ✅ APIs: Flask, FastAPI
 - ✅ Cloud Platforms: GCP, AWS
+- ✅ Industry skills: Linux, Git, Docker, LaTeX, Markdown
 
-&nbsp;
+<h1>👨‍💼 Experience</h1>
 
-<h1>:abacus: Tech Stack</h1>
+<h3>Nagarro - Senior Engineer (Data Scientist)</h3>
+<h4 align="right">October 2020–Present</h3>
 
-<h2 align="left"><ins>Cloud Services</ins></h2>
+- **Inventory Management Using Reinforcement Learning:** Developed a system utilizing reinforcement learning (RL) algorithms, such as Q-learning or Deep Q-learning, to optimize inventory levels. Implemented algorithms to learn optimal stocking levels based on demand patterns and cost considerations, resulting in significant cost savings for the business.
+- **Product Return Forecasting:** Utilized statistical modeling techniques, such as time series analysis or machine learning, to analyze historical data and identify patterns related to product returns. Developed models to predict future return rates, enabling the business to better manage inventory and plan resources efficiently.
+- **Multi Touch Attribution Using Markov and Shapely:** Developed a model to attribute sales to different marketing channels using Markov chains and Shapely values. The model helped the business understand the impact of each marketing channel on sales and optimize marketing strategies accordingly.
+- **Budget Reallocation Using Linear Programming:** Worked on optimizing budget allocation across various campaigns and ad groups using linear programming techniques. Analyzed campaign performance data and market trends to determine the most effective allocation strategy, resulting in improved performance and resource utilization.
+- **Scheduling Accelerator Using Ant Colony Optimization:** Designed and implemented an internal demo to optimize the workflow of a manufacturing process. Utilized Ant Colony Optimization (ACO) algorithm to schedule various jobs on different machines, improving production efficiency and reducing idle time.
+
+<h1>🎓 Academics</h1>
+
+<!-- <h3> BITS Pilani (Work Integrated) </h3>
+<h4 align="right">2022–Present</h4>
+M.Tech, Data Science and Engineering, Will graduate September 2024, ongoing.
+
+<h3> Bharati Vidyapeeth College of Engineering New Delhi </h3>
+<h4 align="right">2016–2020</h4>
+B.Tech, Computer Science and Engineering, Graduated September 2020, 8.61 CGPA
+
+<h3> Sahoday Sr. Sec. School New Delhi </h3>
+<h4 align="right">Graduated 2016</h4>
+Class 12th, Percentage 92.4% -->
+<!-- Need to make a table out of above inforemation -->
+
+| Institution | Degree | Year | CGPA/Percentage |
+|-------------|--------|------|-----------------|
+| BITS Pilani (Work Integrated) | M.Tech, Data Science and Engineering | 2022- | Ongoing |
+| Bharati Vidyapeeth College of Engineering New Delhi | B.Tech, Computer Science and Engineering | 2016–2020 | 8.61 CGPA |
+| Sahoday Sr. Sec. School New Delhi | Class 12th | -2016 | 92.4% |
+
+
+<h1>🧰 Tech Stack</h1>
 
 <h3 align="left">GCP</h3>
 
@@ -51,3 +74,24 @@ I am an engineer currently working in the data science team at Nagarro, Gurgaon.
 
 | S3 | EC2 | ECR | Kinesis | Lambda | RDS | SageMaker |
 |----|-----|-----|---------|--------|-----|-----------|
+
+<h1>🚀 Personal Projects</h1>
+
+- [YouTube Playlist length](https://github.com/sharatsachin/ytplaylist-len) - A web-app to find the length of playlists on Youtube, with over 10k weekly visitors, and 600+ GitHub stars.
+- [IPU Results website](https://github.com/sharatsachin/ipresultss-website) - A website to check the results of the semester exams of IP university.
+
+<h1>📜 Certifications</h1>
+
+- [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/bceef8de-52df-4a84-8d2e-7e4f03f5a85f/public_url) Offered by AWS, October 2022
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5908e92f-c3d1-44e8-918b-6ea445764419/public_url) Offered by AWS, January 2022
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BHEMTH7NMX4Q) Offered by deeplearning.ai on Coursera, August 2020
+- [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/D4Z738LHKR6A) Offered by Stanford University on Coursera, Feb 2020
+- [Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/PPSAXW2RGC4V) Offered by University of Michigan on Coursera, April 2018
+- [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/LJAY48ETXRGW) Offered by University of Michigan on Coursera, April 2018
+
+<h1>🏆 Achievements</h1>
+
+- Rank 1 in HackerBlocks CodSule, October and November 2018
+- Selected for onsite regional at ICPC Amritapuri 2019
+- Won [The Rookie](https://drive.google.com/file/d/1fPia4WMsqdwgSew-y7vGydlSg_pYBKtL/view) award at Nagarro in my first year
+- Finished [all problems in Advent of Code 2021](https://github.com/sharatsachin/AdventOfCode), finishing in first place at Nagarro
