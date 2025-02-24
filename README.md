@@ -46,7 +46,7 @@ I am an engineer currently working in the data science team at Nagarro, Gurgaon.
 
 | Institution | Degree | Year | CGPA/Percentage |
 |-------------|--------|------|-----------------|
-| [BITS Pilani (Work Integrated)](https://drive.google.com/file/d/1-J_YNisdLTaCpQQBPER3wl2gTsgt6q2v/view?usp=sharing) | M.Tech, Data Science and Engineering | 2022-2024 | 9.07 CGPA |
+| BITS Pilani (Work Integrated) | M.Tech, Data Science and Engineering | 2022-2024 | 9.07 CGPA |
 | Bharati Vidyapeeth College of Engineering New Delhi | B.Tech, Computer Science and Engineering | 2016–2020 | 8.61 CGPA |
 | Sahoday Sr. Sec. School New Delhi | Class 12th | -2016 | 92.4% |
 
